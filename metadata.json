@@ -1,0 +1,6 @@
+{
+  "name": "Darwin's Paradox: Escape from UFOOD",
+  "description": "A cinematic 2D side-scrolling octopus stealth puzzle-platformer. Crawl walls, camouflage into steel, blind security cameras with ink, and escape the industrial complex back to the ocean.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
